@@ -1,1 +1,1 @@
-Hello from feature1 branch
+Hello from both feature1 and feature2 branches
